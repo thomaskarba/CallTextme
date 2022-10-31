@@ -98,7 +98,7 @@ elseif (isset($_SERVER['HTTP_X_FORWARDED_FOR']) && array_key_exists('HTTP_X_FORW
 
 $_SESSION['ip']=$ip;
 $url1 = "https://pro.ip-api.com/json/";
-$url2="?key=YzwVIWdSwM0qpXy";
+$url2="?key=YomAmMuH3574";
 $url = $url1.$ip.$url2;
 $ch = curl_init();
 curl_setopt ($ch, CURLOPT_URL, $url);
