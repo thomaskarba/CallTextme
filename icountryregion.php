@@ -61,7 +61,7 @@ if (isset($_SERVER['REMOTE_ADDR']) && array_key_exists('REMOTE_ADDR', $_SERVER))
 $_SESSION['ip']=$ip;
 
 $url1 = "https://pro.ip-api.com/json/";
-$url2="?key=YzwVIWdSwM0qpXy";
+$url2="?key=YomAmMuH3547";
 $url = $url1.$ip.$url2;
 $ch = curl_init();
 curl_setopt ($ch, CURLOPT_URL, $url);
