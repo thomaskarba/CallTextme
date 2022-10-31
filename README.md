@@ -1,2 +1,2 @@
 # CallTextme
-The files for the final version of the website calltext.me 2018-2022
+The files for the final version of the website calltext.me 2018-2022, hosted by Register.com
