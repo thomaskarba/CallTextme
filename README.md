@@ -10,3 +10,5 @@ The first files are index/start2/profile/istart
 <br><br> international.php isn't all countries, just the ones that were represented by users on the site.
 <br> <br> all data has been erased. Some db tables were dropped before schema export, unnecessary ones.
 <br> I shake my fist at whoever went for the mailgun file and started sending emails. File is deleted. If you want to reach me https://13103479541.xoxo
+
+Donate Solana (crypto) CARLUvm5wzAKE4wbvy8tt17oPH1npcqkiQnz23MFtaYB
